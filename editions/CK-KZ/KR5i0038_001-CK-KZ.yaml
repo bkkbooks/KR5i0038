@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0038/CK-KZ/v1/juan/1
+seq: 1
+front:
+  text: 參同契分章註重刋道藏輯要
+  hash: sha256:4b9f38620468fba6a45cc878e6f35dd9c175240f858ecb07470232d938df1c4a
+  markers:
+  - {type: page-break, offset: 6, content: '', id: CK-KZ_KR5i0038_01p001a}
+body:
+  text: 參同契分章注目錄上篇一十五章大易總叙章第一乾坤設位章第二日月懸象章第三聖人上觀章第四君臣御政章第五鍊已立基章第六明兩知竅章第七明辯邪正章第八龍虎兩弦章第九金返歸性章第十二土全功章第十一同類合體章第十二三聖前識章第十三金丹刀圭章第十四水火情性章第十五中篇一十五章陰陽精氣章第十六君子居室章第十七晦朔合符章第十八爻變功用章第十九養性立命章第二十二炁感化章第二十一關鍵三寶章第二十二旁門無功章第二十三流珠金華章第二十四如審遭逢章第二十五姹女黃芽章第二十六男女相須章第二十七四者混沌章第二十八卯酉刑德章第二十九君子好逑章第三十下篇五章聖賢伏鍊章第三十一法象成功章第三十二鼎器妙用章第三十三補塞遺脫章第三十四自叙啟後章第三十五
+  hash: sha256:1341722dd7d41417731624a6c21adbe02853883b6b3cb5b25a8072d4e8f1a4a9
+metadata:
+  title: 參同契分章註
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 17:52:20.025732'
+  source:
+    repository: kanripo
+    path: KR5i0038/KR5i0038_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:dc5de3ee31ca5cb5d90b8ac8eeafe91c7b3fc793e645a5ccfd582c8fb54a6681

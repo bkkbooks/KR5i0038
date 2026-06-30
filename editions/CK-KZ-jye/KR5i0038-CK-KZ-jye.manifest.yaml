@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR5i0038/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5i0038/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 參同契分章註
+  date: '2015-08-29 17:52:20.025732'
+  source:
+    repository: kanripo
+    path: KR5i0038
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0038_001-CK-KZ-jye.yaml, hash: 'sha256:d7baf9d579b493935b4d308b2838c9bd0588026c86b4a6eb924cdab673108964'}
+  - {seq: 2, filename: KR5i0038_002-CK-KZ-jye.yaml, hash: 'sha256:9a2a762241cc250f1e4f3ebde51dcea557b40151fee2dbc034c8da0a152f17f5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0038_001-CK-KZ-jye.markers.yaml, hash: 'sha256:96c01ecb70c0e8c69db67e92c79e3c69a7295310217cb61f6403c24c50bdcc26'}
+  - {seq: 2, role: markers, filename: assets/KR5i0038_002-CK-KZ-jye.markers.yaml, hash: 'sha256:c0334848338aa091ed418a3d6d9f1eb26b1a8f905fb8e7b745d74d49946add7f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0038_01p001a
+    span:
+    - body
+    - 0
+    - 308
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: CK-KZ_KR5i0038_02p001a
+    span:
+    - body
+    - 0
+    - 36662
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:3a90a90351e5cb5ef936b297a9be98e1c829b0cc3dc3d1c51f4833b25a042083
